@@ -1,4 +1,4 @@
-# SF340_A-care
+# A-care Web Application
 The objective is to collect health data such as BMI,
 BMR, and TDEE, along with providing detailed
 explanations of the calculations and information

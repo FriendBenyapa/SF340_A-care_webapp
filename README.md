@@ -1,5 +1,5 @@
 # SF340_A-care
-#The objective is to collect health data such as BMI,
+The objective is to collect health data such as BMI,
 BMR, and TDEE, along with providing detailed
 explanations of the calculations and information
 related to diet and exercise. The main target group
